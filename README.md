@@ -4,5 +4,7 @@ I'm an experienced software developer, mostly in the Microsoft commercial space 
 
 So far, I've got two public project on GitHub:
 
-- **[eiou](https://github.com/b-h-mck/eiou)**: A simple IOU tracker app. [See it in action](https://eiou-online.com/)
-- **[Chess By URL](https://github.com/b-h-mck/ChessByUrl)**: A website for playing chess or sharing chess puzzles via URL. [See it in action](https://chessbyurl.azurewebsites.net/)
+- **[eiou](https://github.com/b-h-mck/eiou)**: A simple IOU tracker app.
+  - [See it in action!](https://eiou-online.com/)
+- **[Chess By URL](https://github.com/b-h-mck/ChessByUrl)**: A website for playing chess or sharing chess puzzles via URL.
+  - [See it in action!](https://chessbyurl.azurewebsites.net/)
